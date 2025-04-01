@@ -106,8 +106,8 @@ function serveHomePage() {
 }
 
 /**
- * Serves the update file as a download to the client.
- * Replace "update.zip" with the path/filename of your actual update file.
+ * Serves the malware file as a download to the client.
+ * Replace "malware.txt" with the path/filename of your actual update file.
  */
 function serveUpdateFile() {
     const filePath = join(process.cwd(), "Malware.txt");
