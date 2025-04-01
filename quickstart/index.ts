@@ -1,8 +1,8 @@
 /**
- * Example Bun server that serves an "Update Page" and a downloadable update file
+ * Example Bun server that serves an "Update Page" and a downloadable "update" file
  *
  * 1. Place or rename your update file as "update.zip" (or adjust the filename below).
- * 2. Run `bun run server.js`.
+ * 2. Run `bun start`.
  * 3. Visit the printed URL in your browser to see the styled update page.
  */
 
