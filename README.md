@@ -62,8 +62,6 @@ project-root/
 
 Visit `http://localhost` or `http://<your-local-ip>`:
 
-![Update Page Screenshot](https://via.placeholder.com/600x300?text=Update+Page+Preview)
-
 ---
 
 ## Disclaimer
